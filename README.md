@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rakesh Kumar Bharti, 21.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning python and ML.
+- 🌱 I’m currently learning python and C#.
 - 💞️ I’m looking to collaborate on ML projects 
 - 📫 How to reach me - bhartirakes7179@gmail.com
 
